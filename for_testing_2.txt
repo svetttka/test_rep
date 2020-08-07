@@ -1,1 +1,4 @@
   some changes
+
+def function1():
+	pass

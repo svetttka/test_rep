@@ -1,1 +1,2 @@
-First row.
+First stroke.
+Second row.
